@@ -1,0 +1,2875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[List of London railway stations]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[List of stations]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Abbey Wood]]></name>
+			<Point>
+				<coordinates>0.1229,51.4915,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#GeoGroup">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Acton Central]]></name>
+			<Point>
+				<coordinates>-0.2634,51.5088,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#GeoGroup">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Acton Main Line]]></name>
+			<Point>
+				<coordinates>-0.2669,51.5169,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Albany Park]]></name>
+			<Point>
+				<coordinates>0.1266,51.4358,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Alexandra Palace]]></name>
+			<Point>
+				<coordinates>-0.1197,51.5983,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-2">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Amersham]]></name>
+			<Point>
+				<coordinates>-0.6088,51.6747,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Anerley]]></name>
+			<Point>
+				<coordinates>-0.0651,51.4125,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Angel Road]]></name>
+			<Point>
+				<coordinates>-0.0495,51.6118,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Balham]]></name>
+			<Point>
+				<coordinates>-0.152,51.4426,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barking]]></name>
+			<Point>
+				<coordinates>0.0817,51.5393,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barnehurst]]></name>
+			<Point>
+				<coordinates>0.1595,51.4648,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barnes]]></name>
+			<Point>
+				<coordinates>-0.242,51.4671,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barnes Bridge]]></name>
+			<Point>
+				<coordinates>-0.2523,51.4722,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Battersea]]></name>
+			<Point>
+				<coordinates>-0.1477,51.4779,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Beckenham Hill]]></name>
+			<Point>
+				<coordinates>-0.0161,51.4246,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Beckenham Junction]]></name>
+			<Point>
+				<coordinates>-0.0257,51.4109,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bellingham]]></name>
+			<Point>
+				<coordinates>-0.0199,51.4342,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Belmont]]></name>
+			<Point>
+				<coordinates>-0.1986,51.344,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Belvedere]]></name>
+			<Point>
+				<coordinates>0.1524,51.4927,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Berrylands]]></name>
+			<Point>
+				<coordinates>-0.2803,51.3988,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bethnal Green]]></name>
+			<Point>
+				<coordinates>-0.0595,51.523,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-4">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bexley]]></name>
+			<Point>
+				<coordinates>0.1479,51.4403,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-4">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bexleyheath]]></name>
+			<Point>
+				<coordinates>0.1338,51.4635,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bickley]]></name>
+			<Point>
+				<coordinates>0.0441,51.3995,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Birkbeck]]></name>
+			<Point>
+				<coordinates>-0.0568,51.4039,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Blackfriars]]></name>
+			<Point>
+				<coordinates>-0.103,51.5116,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Blackheath]]></name>
+			<Point>
+				<coordinates>0.0064,51.4663,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Blackhorse Road]]></name>
+			<Point>
+				<coordinates>-0.0416,51.5866,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bowes Park]]></name>
+			<Point>
+				<coordinates>-0.1209,51.6078,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Brentford]]></name>
+			<Point>
+				<coordinates>-0.3096,51.4875,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Brimsdown]]></name>
+			<Point>
+				<coordinates>-0.0301,51.6556,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Brixton]]></name>
+			<Point>
+				<coordinates>-0.1132,51.4629,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Brockley]]></name>
+			<Point>
+				<coordinates>-0.0369,51.4645,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bromley North]]></name>
+			<Point>
+				<coordinates>0.0179,51.4088,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bromley South]]></name>
+			<Point>
+				<coordinates>0.0181,51.4004,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Brondesbury]]></name>
+			<Point>
+				<coordinates>-0.202,51.5451,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Brondesbury Park]]></name>
+			<Point>
+				<coordinates>-0.2103,51.5407,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bruce Grove]]></name>
+			<Point>
+				<coordinates>-0.0704,51.594,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bushey]]></name>
+			<Point>
+				<coordinates>-0.385,51.644,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bush Hill Park]]></name>
+			<Point>
+				<coordinates>-0.0691,51.6418,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Caledonian Road & Barnsbury]]></name>
+			<Point>
+				<coordinates>-0.1145,51.5432,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cambridge Heath]]></name>
+			<Point>
+				<coordinates>-0.0572,51.5321,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Camden Road]]></name>
+			<Point>
+				<coordinates>-0.1401,51.5444,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Canada Water]]></name>
+			<Point>
+				<coordinates>-0.05,51.4983,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cannon Street]]></name>
+			<Point>
+				<coordinates>-0.0912,51.5101,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Canonbury]]></name>
+			<Point>
+				<coordinates>-0.0925,51.5482,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Carpenders Park]]></name>
+			<Point>
+				<coordinates>-0.386,51.629,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Carshalton]]></name>
+			<Point>
+				<coordinates>-0.1659,51.3686,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Carshalton Beeches]]></name>
+			<Point>
+				<coordinates>-0.1714,51.3577,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-7">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Castle Bar Park]]></name>
+			<Point>
+				<coordinates>-0.3323,51.5228,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-7">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Caterham]]></name>
+			<Point>
+				<coordinates>-0.0783,51.28214,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Catford]]></name>
+			<Point>
+				<coordinates>-0.0261,51.4447,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Catford Bridge]]></name>
+			<Point>
+				<coordinates>-0.025,51.4446,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chadwell Heath]]></name>
+			<Point>
+				<coordinates>0.1292,51.5678,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chafford Hundred]]></name>
+			<Point>
+				<coordinates>0.2876,51.4859,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chalfont & Latimer]]></name>
+			<Point>
+				<coordinates>-0.561,51.6679,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Charing Cross]]></name>
+			<Point>
+				<coordinates>-0.1231,51.5075,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Charlton]]></name>
+			<Point>
+				<coordinates>0.031,51.4868,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cheam]]></name>
+			<Point>
+				<coordinates>-0.2147,51.356,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chelsfield]]></name>
+			<Point>
+				<coordinates>0.1076,51.3565,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chessington North]]></name>
+			<Point>
+				<coordinates>-0.3005,51.3642,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chessington South]]></name>
+			<Point>
+				<coordinates>-0.308,51.3569,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chingford]]></name>
+			<Point>
+				<coordinates>0.0094,51.6331,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chislehurst]]></name>
+			<Point>
+				<coordinates>0.0573,51.4057,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chiswick]]></name>
+			<Point>
+				<coordinates>-0.2683,51.4813,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-8">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chorleywood]]></name>
+			<Point>
+				<coordinates>-0.5183,51.6541,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[City Thameslink]]></name>
+			<Point>
+				<coordinates>-0.1037,51.5163,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Clapham High Street]]></name>
+			<Point>
+				<coordinates>-0.1328,51.4658,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Clapham Junction]]></name>
+			<Point>
+				<coordinates>-0.1703,51.4644,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Clapton]]></name>
+			<Point>
+				<coordinates>-0.0571,51.5617,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Clock House]]></name>
+			<Point>
+				<coordinates>-0.0411,51.4088,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Coulsdon South]]></name>
+			<Point>
+				<coordinates>-0.138,51.3157,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Smitham]]></name>
+			<Point>
+				<coordinates>-0.134,51.3219,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crayford]]></name>
+			<Point>
+				<coordinates>0.1786,51.4483,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crews Hill]]></name>
+			<Point>
+				<coordinates>-0.1072,51.6845,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cricklewood]]></name>
+			<Point>
+				<coordinates>-0.2129,51.5586,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crofton Park]]></name>
+			<Point>
+				<coordinates>-0.0367,51.455,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crouch Hill]]></name>
+			<Point>
+				<coordinates>-0.1171,51.572,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Crystal Palace]]></name>
+			<Point>
+				<coordinates>-0.0726,51.4182,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dagenham Dock]]></name>
+			<Point>
+				<coordinates>0.145,51.5268,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dalston Junction]]></name>
+			<Point>
+				<coordinates>-0.0747,51.5453,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_c">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dalston Kingsland]]></name>
+			<Point>
+				<coordinates>-0.0763,51.5482,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_c">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dartford]]></name>
+			<Point>
+				<coordinates>0.2193,51.4475,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-freedom_10-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Denmark Hill]]></name>
+			<Point>
+				<coordinates>-0.0894,51.4683,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-freedom_10-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Deptford]]></name>
+			<Point>
+				<coordinates>-0.0265,51.4788,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-freedom_10-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Drayton Green]]></name>
+			<Point>
+				<coordinates>-0.33,51.5165,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-11">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Drayton Park]]></name>
+			<Point>
+				<coordinates>-0.1055,51.5528,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-11">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ealing Broadway]]></name>
+			<Point>
+				<coordinates>-0.3017,51.5147,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-11">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Earlsfield]]></name>
+			<Point>
+				<coordinates>-0.1877,51.4424,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[East Croydon]]></name>
+			<Point>
+				<coordinates>-0.093,51.3753,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-13">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[East Dulwich]]></name>
+			<Point>
+				<coordinates>-0.0804,51.4616,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-13">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Eden Park]]></name>
+			<Point>
+				<coordinates>-0.0262,51.39,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-13">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Edmonton Green]]></name>
+			<Point>
+				<coordinates>-0.0614,51.6242,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-13">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Elephant & Castle]]></name>
+			<Point>
+				<coordinates>-0.0986,51.4938,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-14">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Elmers End]]></name>
+			<Point>
+				<coordinates>-0.0496,51.3981,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-14">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Elmstead Woods]]></name>
+			<Point>
+				<coordinates>0.0441,51.4168,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-14">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Elstree & Borehamwood]]></name>
+			<Point>
+				<coordinates>-0.2802,51.6531,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Eltham]]></name>
+			<Point>
+				<coordinates>0.0515,51.4555,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Emerson Park]]></name>
+			<Point>
+				<coordinates>0.2204,51.5687,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Enfield Chase]]></name>
+			<Point>
+				<coordinates>-0.0908,51.6529,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Enfield Lock]]></name>
+			<Point>
+				<coordinates>-0.0284,51.6709,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-16">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Enfield Town]]></name>
+			<Point>
+				<coordinates>-0.0792,51.6516,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-2">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Erith]]></name>
+			<Point>
+				<coordinates>0.1754,51.4816,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-17">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Essex Road]]></name>
+			<Point>
+				<coordinates>-0.0963,51.5406,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-17">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Euston]]></name>
+			<Point>
+				<coordinates>-0.1345,51.5287,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ewell East]]></name>
+			<Point>
+				<coordinates>-0.2419,51.3451,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ewell West]]></name>
+			<Point>
+				<coordinates>-0.2569,51.3502,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Falconwood]]></name>
+			<Point>
+				<coordinates>0.0799,51.4592,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Farringdon]]></name>
+			<Point>
+				<coordinates>-0.1053,51.5206,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Feltham]]></name>
+			<Point>
+				<coordinates>-0.4088,51.4481,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fenchurch Street]]></name>
+			<Point>
+				<coordinates>-0.0783,51.5114,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Finchley Road & Frognal]]></name>
+			<Point>
+				<coordinates>-0.1837,51.5499,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Finsbury Park]]></name>
+			<Point>
+				<coordinates>-0.1836,51.5502,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Forest Gate]]></name>
+			<Point>
+				<coordinates>0.0242,51.5494,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-18">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Forest Hill]]></name>
+			<Point>
+				<coordinates>-0.0533,51.4393,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-18">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fulwell]]></name>
+			<Point>
+				<coordinates>-0.3508,51.4334,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-19">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gidea Park]]></name>
+			<Point>
+				<coordinates>0.2063,51.582,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-20">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gipsy Hill]]></name>
+			<Point>
+				<coordinates>-0.084,51.4246,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Goodmayes]]></name>
+			<Point>
+				<coordinates>0.1109,51.5655,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gordon Hill]]></name>
+			<Point>
+				<coordinates>-0.0943,51.6632,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gospel Oak]]></name>
+			<Point>
+				<coordinates>-0.1514,51.5552,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Grange Park]]></name>
+			<Point>
+				<coordinates>-0.0969,51.6431,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-enfield.gov.uk_9-4">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Grays]]></name>
+			<Point>
+				<coordinates>0.322,51.476,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Greenford]]></name>
+			<Point>
+				<coordinates>-0.3463,51.5426,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Greenwich]]></name>
+			<Point>
+				<coordinates>-0.0134,51.4782,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Grove Park]]></name>
+			<Point>
+				<coordinates>0.0219,51.4306,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gunnersbury]]></name>
+			<Point>
+				<coordinates>-0.275,51.4918,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hackbridge]]></name>
+			<Point>
+				<coordinates>-0.1539,51.3778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-2">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hackney Central]]></name>
+			<Point>
+				<coordinates>-0.0559,51.547,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_c">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hackney Downs]]></name>
+			<Point>
+				<coordinates>-0.0601,51.5483,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceA_22-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hackney Wick]]></name>
+			<Point>
+				<coordinates>-0.0249,51.5432,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceA_22-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hadley Wood]]></name>
+			<Point>
+				<coordinates>-0.1761,51.6688,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-23">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Haggerston]]></name>
+			<Point>
+				<coordinates>-0.0736,51.5381,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_c">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hampstead Heath]]></name>
+			<Point>
+				<coordinates>-0.1654,51.5553,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_c">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hampton]]></name>
+			<Point>
+				<coordinates>-0.3717,51.4159,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-3">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hampton Court]]></name>
+			<Point>
+				<coordinates>-0.3425,51.4028,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hampton Wick]]></name>
+			<Point>
+				<coordinates>-0.3107,51.4141,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hanwell]]></name>
+			<Point>
+				<coordinates>-0.3389,51.5116,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-24">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harlesden]]></name>
+			<Point>
+				<coordinates>-0.2581,51.5363,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-24">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harold Wood]]></name>
+			<Point>
+				<coordinates>0.2343,51.5928,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-25">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harringay]]></name>
+			<Point>
+				<coordinates>-0.1052,51.577,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-26">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harringay Green Lanes]]></name>
+			<Point>
+				<coordinates>-0.0977,51.5774,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-27">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harrow & Wealdstone]]></name>
+			<Point>
+				<coordinates>-0.3347,51.5921,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-27">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Harrow-on-the-Hill]]></name>
+			<Point>
+				<coordinates>-0.337,51.5794,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-27">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hatch End]]></name>
+			<Point>
+				<coordinates>-0.3682,51.6097,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceB_28-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Haydons Road]]></name>
+			<Point>
+				<coordinates>-0.188,51.4255,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceB_28-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hayes]]></name>
+			<Point>
+				<coordinates>0.0102,51.3765,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceB_28-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hayes & Harlington]]></name>
+			<Point>
+				<coordinates>-0.4203,51.5031,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-29">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Headstone Lane]]></name>
+			<Point>
+				<coordinates>-0.3566,51.6019,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-30">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Heathrow Terminals 123]]></name>
+			<Point>
+				<coordinates>-0.454,51.471,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-30">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Heathrow Terminal 4]]></name>
+			<Point>
+				<coordinates>-0.445,51.458,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-30">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Heathrow Terminal 5]]></name>
+			<Point>
+				<coordinates>-0.488,51.4723,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-30">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hendon]]></name>
+			<Point>
+				<coordinates>-0.2389,51.58,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-30">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Herne Hill]]></name>
+			<Point>
+				<coordinates>-0.1021,51.4533,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-30">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Highams Park]]></name>
+			<Point>
+				<coordinates>-0.0001,51.6084,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-31">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Highbury & Islington]]></name>
+			<Point>
+				<coordinates>-0.105,51.5458,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_e">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hither Green]]></name>
+			<Point>
+				<coordinates>-0.0008,51.4519,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_e">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Homerton]]></name>
+			<Point>
+				<coordinates>-0.0431,51.547,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_e">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Honor Oak Park]]></name>
+			<Point>
+				<coordinates>-0.0456,51.4501,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_e">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Haringey]]></name>
+			<Point>
+				<coordinates>-0.1116,51.5862,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-32">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hounslow]]></name>
+			<Point>
+				<coordinates>-0.3622,51.462,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceC_33-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hoxton]]></name>
+			<Point>
+				<coordinates>-0.0754,51.5318,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceC_33-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ilford]]></name>
+			<Point>
+				<coordinates>0.0696,51.5586,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-34">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Imperial Wharf]]></name>
+			<Point>
+				<coordinates>-0.1828,51.4751,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-34">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Isleworth]]></name>
+			<Point>
+				<coordinates>-0.337,51.4749,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-4">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kenley]]></name>
+			<Point>
+				<coordinates>-0.1007,51.3246,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-35">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kensal Green]]></name>
+			<Point>
+				<coordinates>-0.2243,51.5306,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-35">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kensal Rise]]></name>
+			<Point>
+				<coordinates>-0.2204,51.5345,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-35">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kensington (Olympia)]]></name>
+			<Point>
+				<coordinates>-0.211,51.4985,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-35">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kent House]]></name>
+			<Point>
+				<coordinates>-0.0453,51.4123,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-35">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kentish Town]]></name>
+			<Point>
+				<coordinates>-0.1396,51.5505,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-35">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kentish Town West]]></name>
+			<Point>
+				<coordinates>-0.1468,51.5468,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-35">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kenton]]></name>
+			<Point>
+				<coordinates>-0.3167,51.5818,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-35">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kew Bridge]]></name>
+			<Point>
+				<coordinates>-0.2878,51.4895,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceC_33-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kew Gardens]]></name>
+			<Point>
+				<coordinates>-0.2849,51.4772,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceC_33-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kidbrooke]]></name>
+			<Point>
+				<coordinates>0.0273,51.4621,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceC_33-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kilburn High Road]]></name>
+			<Point>
+				<coordinates>-0.1925,51.5373,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceC_33-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[King's Cross]]></name>
+			<Point>
+				<coordinates>-0.1233,51.5324,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kingston]]></name>
+			<Point>
+				<coordinates>-0.3019,51.4129,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-36">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kingswood]]></name>
+			<Point>
+				<coordinates>-0.211,51.295,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Knockholt]]></name>
+			<Point>
+				<coordinates>0.1307,51.3459,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ladywell]]></name>
+			<Point>
+				<coordinates>-0.0192,51.4562,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lee]]></name>
+			<Point>
+				<coordinates>0.0128,51.4497,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lewisham]]></name>
+			<Point>
+				<coordinates>-0.0141,51.4658,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Leyton Midland Road]]></name>
+			<Point>
+				<coordinates>-0.0072,51.5693,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Leytonstone High Road]]></name>
+			<Point>
+				<coordinates>0.0073,51.5634,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tower Hamlets]]></name>
+			<Point>
+				<coordinates>-0.0402,51.5126,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-5">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Liverpool Street]]></name>
+			<Point>
+				<coordinates>-0.0819,51.5185,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[London Bridge]]></name>
+			<Point>
+				<coordinates>-0.0851,51.5053,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[London Fields]]></name>
+			<Point>
+				<coordinates>-0.0577,51.5407,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Loughborough Junction]]></name>
+			<Point>
+				<coordinates>-0.102,51.4661,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lower Sydenham]]></name>
+			<Point>
+				<coordinates>-0.0336,51.4245,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Malden Manor]]></name>
+			<Point>
+				<coordinates>-0.2618,51.3847,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Manor Park]]></name>
+			<Point>
+				<coordinates>0.0463,51.5526,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-37">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Maryland]]></name>
+			<Point>
+				<coordinates>0.0059,51.546,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-38">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Marylebone]]></name>
+			<Point>
+				<coordinates>-0.163,51.5231,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Maze Hill]]></name>
+			<Point>
+				<coordinates>0.0032,51.483,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-39">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mill Hill Broadway]]></name>
+			<Point>
+				<coordinates>-0.2491,51.6128,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-39">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mitcham Eastfields]]></name>
+			<Point>
+				<coordinates>-0.1547,51.4077,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-39">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mitcham Junction]]></name>
+			<Point>
+				<coordinates>-0.1576,51.393,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-40">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Moorgate]]></name>
+			<Point>
+				<coordinates>-0.0896,51.5187,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Morden South]]></name>
+			<Point>
+				<coordinates>-0.199,51.3965,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mortlake]]></name>
+			<Point>
+				<coordinates>-0.2672,51.4682,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Motspur Park]]></name>
+			<Point>
+				<coordinates>-0.2397,51.3958,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mottingham]]></name>
+			<Point>
+				<coordinates>0.0504,51.4401,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[New Barnet]]></name>
+			<Point>
+				<coordinates>-0.1738,51.6488,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[New Beckenham]]></name>
+			<Point>
+				<coordinates>-0.0348,51.4164,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[New Cross]]></name>
+			<Point>
+				<coordinates>-0.0325,51.476,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[New Cross Gate]]></name>
+			<Point>
+				<coordinates>-0.0406,51.4752,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[New Eltham]]></name>
+			<Point>
+				<coordinates>0.0705,51.438,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[New Malden]]></name>
+			<Point>
+				<coordinates>-0.256,51.4039,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-6">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[New Southgate]]></name>
+			<Point>
+				<coordinates>-0.1432,51.6142,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-41">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Norbiton]]></name>
+			<Point>
+				<coordinates>-0.2838,51.4124,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-7">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Norbury]]></name>
+			<Point>
+				<coordinates>-0.1214,51.4114,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-42">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[North Dulwich]]></name>
+			<Point>
+				<coordinates>-0.0887,51.4543,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-8">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Northolt Park]]></name>
+			<Point>
+				<coordinates>-0.3595,51.5574,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-8">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[North Sheen]]></name>
+			<Point>
+				<coordinates>-0.2865,51.4656,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-9">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Northumberland Park]]></name>
+			<Point>
+				<coordinates>-0.0551,51.5986,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-9">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[North Wembley]]></name>
+			<Point>
+				<coordinates>-0.304,51.5627,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-9">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Norwood Junction]]></name>
+			<Point>
+				<coordinates>-0.0749,51.3971,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-9">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Nunhead]]></name>
+			<Point>
+				<coordinates>-0.0527,51.4671,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-9">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Oakleigh Park]]></name>
+			<Point>
+				<coordinates>-0.1667,51.6379,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-43">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ockendon]]></name>
+			<Point>
+				<coordinates>0.29,51.52,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Old Street]]></name>
+			<Point>
+				<coordinates>-0.085,51.5258,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Orpington]]></name>
+			<Point>
+				<coordinates>0.0885,51.3741,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Paddington]]></name>
+			<Point>
+				<coordinates>-0.1769,51.5171,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Palmers Green]]></name>
+			<Point>
+				<coordinates>-0.1102,51.6184,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-44">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Peckham Rye]]></name>
+			<Point>
+				<coordinates>-0.0691,51.4701,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-44">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Penge East]]></name>
+			<Point>
+				<coordinates>-0.0537,51.4191,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-44">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Penge West]]></name>
+			<Point>
+				<coordinates>-0.0606,51.4174,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-44">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Petts Wood]]></name>
+			<Point>
+				<coordinates>0.0742,51.3889,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-44">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Plumstead]]></name>
+			<Point>
+				<coordinates>0.0844,51.4897,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-44">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ponders End]]></name>
+			<Point>
+				<coordinates>-0.0349,51.642,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-45">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Purfleet]]></name>
+			<Point>
+				<coordinates>0.237,51.481,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Purley]]></name>
+			<Point>
+				<coordinates>-0.1135,51.3377,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Purley Oaks]]></name>
+			<Point>
+				<coordinates>-0.0987,51.3469,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-10">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Putney]]></name>
+			<Point>
+				<coordinates>-0.2162,51.4611,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-46">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Queen's Park]]></name>
+			<Point>
+				<coordinates>-0.2053,51.5341,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-46">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Queens Road Peckham]]></name>
+			<Point>
+				<coordinates>-0.0573,51.4736,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-46">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Queenstown Road (Battersea)]]></name>
+			<Point>
+				<coordinates>-0.147,51.4748,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-46">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rainham]]></name>
+			<Point>
+				<coordinates>0.1905,51.5169,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-46">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ravensbourne]]></name>
+			<Point>
+				<coordinates>-0.0075,51.4141,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-46">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Raynes Park]]></name>
+			<Point>
+				<coordinates>-0.2299,51.4094,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-46">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rectory Road]]></name>
+			<Point>
+				<coordinates>-0.0681,51.5584,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceA_22-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Reedham]]></name>
+			<Point>
+				<coordinates>-0.1233,51.3313,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceA_22-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Richmond]]></name>
+			<Point>
+				<coordinates>-0.3014,51.463,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceA_22-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rickmansworth]]></name>
+			<Point>
+				<coordinates>-0.4733,51.6402,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Riddlesdown]]></name>
+			<Point>
+				<coordinates>-0.0996,51.3323,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-47">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Romford]]></name>
+			<Point>
+				<coordinates>0.1827,51.5749,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-47">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rotherhithe]]></name>
+			<Point>
+				<coordinates>-0.0522,51.5008,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-47">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Shadwell]]></name>
+			<Point>
+				<coordinates>-0.0569,51.5112,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-47">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[St Helier]]></name>
+			<Point>
+				<coordinates>-0.1985,51.3901,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-47">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[St James Street]]></name>
+			<Point>
+				<coordinates>-0.0323,51.581,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-autogenerated1_48-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[St Johns]]></name>
+			<Point>
+				<coordinates>-0.0225,51.4691,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-autogenerated1_48-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[St Margarets]]></name>
+			<Point>
+				<coordinates>-0.3204,51.455,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-autogenerated1_48-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[St Mary Cray]]></name>
+			<Point>
+				<coordinates>0.1058,51.3947,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-autogenerated1_48-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[St Pancras]]></name>
+			<Point>
+				<coordinates>-0.1261,51.5314,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_d">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sanderstead]]></name>
+			<Point>
+				<coordinates>-0.094,51.3484,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_d">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Selhurst]]></name>
+			<Point>
+				<coordinates>-0.0883,51.3921,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-11">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Seven Kings]]></name>
+			<Point>
+				<coordinates>0.0969,51.5635,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Seven Sisters]]></name>
+			<Point>
+				<coordinates>-0.0756,51.5839,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Shepherd's Bush]]></name>
+			<Point>
+				<coordinates>-0.2175,51.5051,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Shoreditch High Street]]></name>
+			<Point>
+				<coordinates>-0.0768,51.5234,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Shortlands]]></name>
+			<Point>
+				<coordinates>0.0019,51.4058,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sidcup]]></name>
+			<Point>
+				<coordinates>0.104,51.4338,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Silver Street]]></name>
+			<Point>
+				<coordinates>-0.0676,51.6149,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Slade Green]]></name>
+			<Point>
+				<coordinates>0.1904,51.4678,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[South Acton]]></name>
+			<Point>
+				<coordinates>-0.2707,51.4994,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Southall]]></name>
+			<Point>
+				<coordinates>-0.3783,51.506,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[South Bermondsey]]></name>
+			<Point>
+				<coordinates>-0.0548,51.4887,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-british-history.ac.uk_21-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Southbury]]></name>
+			<Point>
+				<coordinates>-0.0524,51.6488,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-49">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[outh Greenford]]></name>
+			<Point>
+				<coordinates>-0.3369,51.5342,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-50">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[South Hampstead]]></name>
+			<Point>
+				<coordinates>-0.1788,51.5414,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-51">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[South Kenton]]></name>
+			<Point>
+				<coordinates>-0.3086,51.5703,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-51">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[South Merton]]></name>
+			<Point>
+				<coordinates>-0.2062,51.403,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-51">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[South Ruislip]]></name>
+			<Point>
+				<coordinates>-0.3988,51.5569,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-51">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[South Tottenham]]></name>
+			<Point>
+				<coordinates>-0.072,51.5802,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-51">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stamford Hill]]></name>
+			<Point>
+				<coordinates>-0.0761,51.5749,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-51">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stoke Newington]]></name>
+			<Point>
+				<coordinates>-0.0727,51.5651,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceA_22-2">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stonebridge Park]]></name>
+			<Point>
+				<coordinates>-0.2754,51.544,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-ReferenceA_22-2">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stoneleigh]]></name>
+			<Point>
+				<coordinates>-0.2487,51.3637,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stratford]]></name>
+			<Point>
+				<coordinates>-0.0037,51.5417,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Stratford International]]></name>
+			<Point>
+				<coordinates>-0.0087,51.5448,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Strawberry Hill]]></name>
+			<Point>
+				<coordinates>-0.3388,51.4389,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-52">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Streatham]]></name>
+			<Point>
+				<coordinates>-0.1311,51.426,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-12">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Streatham Common]]></name>
+			<Point>
+				<coordinates>-0.1359,51.4187,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-13">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Streatham Hill]]></name>
+			<Point>
+				<coordinates>-0.1271,51.438,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-53">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sudbury & Harrow Road]]></name>
+			<Point>
+				<coordinates>-0.3167,51.554,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-autogenerated2_54-0">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sudbury Hill Harrow]]></name>
+			<Point>
+				<coordinates>-0.3358,51.5589,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-autogenerated2_54-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sundridge Park]]></name>
+			<Point>
+				<coordinates>0.0221,51.4137,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-55">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Surbiton]]></name>
+			<Point>
+				<coordinates>-0.3044,51.3926,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-55">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Surrey Quays]]></name>
+			<Point>
+				<coordinates>-0.0477,51.4933,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-55">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sutton]]></name>
+			<Point>
+				<coordinates>-0.1903,51.3601,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-56">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sutton Common]]></name>
+			<Point>
+				<coordinates>-0.1964,51.3751,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-56">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Swanley]]></name>
+			<Point>
+				<coordinates>-0.1733,51.3944,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-freedom_10-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sydenham]]></name>
+			<Point>
+				<coordinates>-0.0545,51.4268,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-freedom_10-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sydenham Hill]]></name>
+			<Point>
+				<coordinates>-0.0802,51.4326,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-freedom_10-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Syon Lane]]></name>
+			<Point>
+				<coordinates>-0.3248,51.4818,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-57">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tadworth]]></name>
+			<Point>
+				<coordinates>-0.236,51.292,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tattenham Corner]]></name>
+			<Point>
+				<coordinates>-0.2426,51.3092,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Teddington]]></name>
+			<Point>
+				<coordinates>-0.3325,51.4247,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Thames Ditton]]></name>
+			<Point>
+				<coordinates>-0.3383,51.3886,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Thornton Heath]]></name>
+			<Point>
+				<coordinates>-0.1004,51.3985,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tolworth]]></name>
+			<Point>
+				<coordinates>-0.2793,51.3771,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tooting]]></name>
+			<Point>
+				<coordinates>-0.1603,51.4196,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-58">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tottenham Hale]]></name>
+			<Point>
+				<coordinates>-0.0611,51.5902,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-58">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tulse Hill]]></name>
+			<Point>
+				<coordinates>-0.1049,51.4399,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-14">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Turkey Street]]></name>
+			<Point>
+				<coordinates>-0.0474,51.6725,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-59">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Twickenham]]></name>
+			<Point>
+				<coordinates>-0.3296,51.4504,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-60">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Upminster]]></name>
+			<Point>
+				<coordinates>0.2509,51.5588,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-60">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Upper Holloway]]></name>
+			<Point>
+				<coordinates>-0.1298,51.5638,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-60">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Upper Warlingham]]></name>
+			<Point>
+				<coordinates>-0.078,51.3085,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Vauxhall]]></name>
+			<Point>
+				<coordinates>-0.1229,51.4859,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Victoria]]></name>
+			<Point>
+				<coordinates>-0.1448,51.4966,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Waddon]]></name>
+			<Point>
+				<coordinates>-0.117,51.3674,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wallington]]></name>
+			<Point>
+				<coordinates>-0.1533,51.3592,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Walthamstow Central]]></name>
+			<Point>
+				<coordinates>-0.0192,51.5831,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Walthamstow Queens Road]]></name>
+			<Point>
+				<coordinates>-0.024,51.5817,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wandsworth Common]]></name>
+			<Point>
+				<coordinates>-0.1635,51.4464,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-61">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wandsworth Road]]></name>
+			<Point>
+				<coordinates>-0.139,51.4702,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-61">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wandsworth Town]]></name>
+			<Point>
+				<coordinates>-0.1879,51.461,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-15">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wanstead Park]]></name>
+			<Point>
+				<coordinates>0.0264,51.5518,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-15">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wapping]]></name>
+			<Point>
+				<coordinates>-0.0558,51.5044,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-15">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Waterloo]]></name>
+			<Point>
+				<coordinates>-0.1132,51.5031,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Waterloo East]]></name>
+			<Point>
+				<coordinates>-0.1101,51.5041,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_a">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Watford High Street]]></name>
+			<Point>
+				<coordinates>-0.3918,51.6525,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Watford Junction]]></name>
+			<Point>
+				<coordinates>-0.3958,51.6635,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Welling]]></name>
+			<Point>
+				<coordinates>0.1017,51.4647,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wembley Central]]></name>
+			<Point>
+				<coordinates>-0.2964,51.5519,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-62">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wembley Stadium]]></name>
+			<Point>
+				<coordinates>-0.2863,51.5543,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-62">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Brompton]]></name>
+			<Point>
+				<coordinates>-0.1957,51.4866,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-62">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Westcombe Park]]></name>
+			<Point>
+				<coordinates>0.0187,51.4842,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-63">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Croydon]]></name>
+			<Point>
+				<coordinates>-0.102,51.3785,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-63">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Drayton]]></name>
+			<Point>
+				<coordinates>-0.4719,51.5101,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-64">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Dulwich]]></name>
+			<Point>
+				<coordinates>-0.0906,51.4409,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-64">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Ealing]]></name>
+			<Point>
+				<coordinates>-0.3203,51.5137,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-64">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Ham]]></name>
+			<Point>
+				<coordinates>0.0066,51.5284,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-64">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Hampstead]]></name>
+			<Point>
+				<coordinates>-0.1913,51.5473,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-64">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Hampstead Thameslink]]></name>
+			<Point>
+				<coordinates>-0.19183,51.54848,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-64">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Norwood]]></name>
+			<Point>
+				<coordinates>-0.1035,51.4318,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-16">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Ruislip]]></name>
+			<Point>
+				<coordinates>-0.4376,51.5696,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-16">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Sutton]]></name>
+			<Point>
+				<coordinates>-0.2051,51.3662,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-16">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[West Wickham]]></name>
+			<Point>
+				<coordinates>-0.0145,51.3813,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-16">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Whitechapel]]></name>
+			<Point>
+				<coordinates>-0.061,51.519,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-16">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[White Hart Lane]]></name>
+			<Point>
+				<coordinates>-0.0711,51.6049,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-16">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Whitton]]></name>
+			<Point>
+				<coordinates>-0.3578,51.4495,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-borley_12-16">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Whyteleafe]]></name>
+			<Point>
+				<coordinates>-0.0811,51.3097,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Whyteleafe South]]></name>
+			<Point>
+				<coordinates>-0.0768,51.3034,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Willesden Junction]]></name>
+			<Point>
+				<coordinates>-0.2439,51.5324,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wimbledon]]></name>
+			<Point>
+				<coordinates>-0.2043,51.4232,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wimbledon Chase]]></name>
+			<Point>
+				<coordinates>-0.2142,51.4095,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Winchmore Hill]]></name>
+			<Point>
+				<coordinates>-0.1013,51.6341,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Woodgrange Park]]></name>
+			<Point>
+				<coordinates>0.0454,51.5487,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Woodmansterne]]></name>
+			<Point>
+				<coordinates>-0.1539,51.3192,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#ref_b">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wood Street]]></name>
+			<Point>
+				<coordinates>-0.0021,51.5864,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-autogenerated1_48-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Woolwich Arsenal]]></name>
+			<Point>
+				<coordinates>0.0694,51.4898,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-autogenerated1_48-1">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Woolwich Dockyard]]></name>
+			<Point>
+				<coordinates>0.0536,51.4913,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-65">List of London railway stations</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Worcester Park]]></name>
+			<Point>
+				<coordinates>-0.2412,51.3804,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_London_railway_stations#cite_ref-66">List of London railway stations</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

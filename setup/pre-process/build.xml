@@ -1,0 +1,10 @@
+<project name="Ant - for hookers who understand that once you remove dependency management from Maven, you are left with a flaccid, useless tool." basedir=".">
+
+    <target name="stations-xml-to-json">
+        <delete file="../mongo/stations.js"/>
+        <copy file="stations.original.xml" tofile="stations.xml" overwrite="true"/>
+        <replaceregexp file="stations.xml" match="&lt;coordinates&gt;(.*),(.*),(.*)&lt;/coordinates&gt;" byline="true" replace="&lt;lat&gt;\1&lt;/lat&gt; &lt;lon&gt;\2&lt;/lon&gt;"/>
+        <xslt in="stations.xml" style="stations-xml-to-json.xsl" out="../mongo/stations.js"/>
+    </target>
+
+</project>
